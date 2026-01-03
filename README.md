@@ -10,4 +10,4 @@ Realizar a limpeza e o tratamento de dados provenientes de uma planilha Excel co
 - Python
 - Jupyter Notebook
 
-<!-- Rever essa parte depois -->
+<!-- Adicionar o resultado visual de alguma maneira (telas, gráficos, prints) -->
